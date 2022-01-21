@@ -1,0 +1,39 @@
+﻿Exam,Score - 5,Score - 4,Score - 3,Score - 2,Score - 1,Category
+AP Research,0.14,0.25,0.42,0.14,0.04,AP Capstone
+AP Seminar,0.11,0.20,0.55,0.11,0.04,AP Capstone
+AP 2-D Art and Design,0.10,0.35,0.42,0.13,0.00,Arts
+AP 3-D Art and Design,0.07,0.29,0.36,0.25,0.04,Arts
+AP Art History,0.12,0.20,0.24,0.30,0.15,Arts
+AP Drawing,0.14,0.38,0.34,0.12,0.01,Arts
+AP Music Theory,0.20,0.18,0.23,0.23,0.16,Arts
+AP English Language and Composition,0.09,0.23,0.26,0.29,0.13,English
+AP English Literature and Composition,0.05,0.12,0.27,0.37,0.19,English
+AP Comparative Government and Politics,0.17,0.25,0.31,0.15,0.13,History & Social Science
+AP European History,0.11,0.19,0.25,0.33,0.13,History & Social Science
+AP Human Geography,0.14,0.20,0.18,0.15,0.32,History & Social Science
+AP Macroeconomics,0.18,0.20,0.14,0.16,0.33,History & Social Science
+AP Microeconomics,0.19,0.24,0.17,0.17,0.24,History & Social Science
+AP Psychology,0.14,0.21,0.18,0.15,0.32,History & Social Science
+AP United States Government and Politics,0.12,0.12,0.27,0.26,0.24,History & Social Science
+AP United States History,0.10,0.16,0.21,0.22,0.31,History & Social Science
+AP World History,0.10,0.19,0.24,0.29,0.19,History & Social Science
+AP Calculus AB,0.18,0.14,0.19,0.25,0.24,Math & Computer Science
+AP Calculus BC,0.38,0.17,0.20,0.18,0.07,Math & Computer Science
+AP Computer Science A,0.24,0.22,0.19,0.12,0.23,Math & Computer Science
+AP Computer Science Principles,0.12,0.22,0.33,0.20,0.14,Math & Computer Science
+AP Statistics,0.16,0.20,0.22,0.17,0.25,Math & Computer Science
+AP Biology,0.07,0.19,0.32,0.30,0.11,Sciences
+AP Chemistry,0.11,0.16,0.24,0.25,0.24,Sciences
+AP Environmental Science,0.07,0.25,0.19,0.28,0.22,Sciences
+AP Physics 1,0.07,0.16,0.19,0.26,0.31,Sciences
+AP Physics 2,0.15,0.18,0.32,0.27,0.08,Sciences
+AP Physics C: Electricity and Magnetism,0.33,0.23,0.14,0.18,0.13,Sciences
+AP Physics C: Mechanics,0.24,0.29,0.21,0.15,0.12,Sciences
+AP Chinese Language and Culture,0.57,0.16,0.16,0.05,0.07,World Languages & Cultures
+AP French Language and Culture,0.13,0.23,0.35,0.22,0.07,World Languages & Cultures
+AP German Language and Culture,0.18,0.20,0.28,0.24,0.11,World Languages & Cultures
+AP Italian Language and Culture,0.21,0.23,0.29,0.19,0.09,World Languages & Cultures
+AP Japanese Language and Culture,0.48,0.09,0.18,0.08,0.18,World Languages & Cultures
+AP Latin,0.10,0.17,0.30,0.25,0.18,World Languages & Cultures
+AP Spanish Language and Culture,0.17,0.30,0.33,0.17,0.04,World Languages & Cultures
+AP Spanish Literature and Culture,0.08,0.21,0.36,0.26,0.10,World Languages & Cultures
