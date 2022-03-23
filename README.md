@@ -1,4 +1,4 @@
-# CSC630-Data-Visualization
+# CSC630-Data-Visualization 
 
 ## 30-Day Chart Challenge
 * [Part-to-Whole](https://github.com/novus677/CSC630-Data-Visualization/blob/main/my%20brain.png)
